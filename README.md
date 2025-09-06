@@ -7,8 +7,8 @@
   <img src="https://komarev.com/ghpvc/?username=ShreyashDeshmukh7768&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 
-- 💬 Ask me about **Python, C++, SQL, HTML, CSS, AI/ML**
-- 🌱 Currently exploring **Next.js, AI/ML Applications, Advanced Web Development**
+- 💬 Ask me about **Python, C++, Java, SQL, HTML, CSS, AI/ML**
+- 🌱 Currently exploring AI/ML Applications, Advanced Web Development**
 - 📫 Reach me at: **dshreyash7768@gmail.com**
 - ⚡ Fun fact: I love building **AI-powered solutions** for real-world problems
 
@@ -57,24 +57,6 @@
 
 ---
 
-<h3 align="left">Projects:</h3>
-<p align="left">
-  <a href="https://github.com/ShreyashDeshmukh7768/Medical-Assistant-Chatbot" target="_blank">
-    <img src="https://img.shields.io/badge/Medical%20Assistant%20Chatbot-Streamlit%20%7C%20LangChain%20%7C%20OCR-blue?style=for-the-badge" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://github.com/ShreyashDeshmukh7768/sign-language-interpreter" target="_blank">
-    <img src="https://img.shields.io/badge/Sign%20Language%20Interpreter-OpenCV%20%7C%20PyTorch%20%7C%20AI-green?style=for-the-badge" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://github.com/ShreyashDeshmukh7768/Talking-Camera" target="_blank">
-    <img src="https://img.shields.io/badge/Talking%20Camera-Android%20%7C%20Text-to-Speech%20%7C%20AI-orange?style=for-the-badge" />
-  </a>
-</p>
-
----
 
 <h3 align="left">GitHub Stats:</h3>
 <p>
