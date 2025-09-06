@@ -8,7 +8,7 @@
 </p>
 
 - 💬 Ask me about **Python, C++, HTML, CSS, SQL, AI & Machine Learning**
-- 🌱 Currently learning **Next.js, Advanced AI/ML Applications**
+- 🌱 Currently learning Advanced AI/ML Applications**
 - 📫 Reach me at: **dshreyash7768@gmail.com**
 - ⚡ Fun fact: I love building **AI-powered projects** that solve real-world problems
 
