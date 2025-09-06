@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreyash Deshmukh</h1>
 <h3 align="center">Aspiring Software Engineer | AI & Web Enthusiast | Problem Solver</h3>
 
-<img align="right" alt="coding" width="400" height="280" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0">
+<img align="right" alt="coding" width="400" height="280" src="[https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0](https://sdmntpraustraliaeast.oaiusercontent.com/files/00000000-8c04-61fa-8a3f-425306427b19/raw?se=2025-09-06T11%3A55%3A18Z&sp=r&sv=2024-08-04&sr=b&scid=2a0e555a-21de-5ce1-9f63-59c7bd9ee484&skoid=f8b66c09-1aa0-4801-9884-173c5cef2b8c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-05T22%3A14%3A18Z&ske=2025-09-06T22%3A14%3A18Z&sks=b&skv=2024-08-04&sig=wH3kVeXRgFu1/ds2TJaDb/xCE2DRKK2ZSMChWZdG56w%3D)">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=ShreyashDeshmukh7768&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
