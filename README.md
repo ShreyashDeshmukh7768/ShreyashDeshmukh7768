@@ -43,15 +43,15 @@ I am a final-year Computer Engineering student with a consistent record of build
 
 ## 🏆 Achievements & Recognition
 
-| # | Achievement | Organization / Event | Year |
-|---|-------------|-----------|------|
-| 🇮🇳 | **National Finalist** — India AI Impact Buildathon at Bharat Mandapam, New Delhi | Government of India × HCLGUVI | 2026 |
-| 🎯 | **Top 7 Finalist** — Bharat Gen AI Summit Hackathon, selected from national pool | IIT Bombay × DST, Govt. of India | 2025 |
-| 🥈 | **Ranked 2nd** — Pragyantra National Level AI Hackathon |National Level Hackathon| 2026 |
-| 🥈 | **Ranked 2nd** — Abhiyantram Project Competition, M-Pulse | National Competition | 2026 |
-| ⚡ | **Top 40 Finalist** (Offline) — iDEA Hackathon, selected from 600+ submissions | Union Bank of India | 2025 |
+| # | Achievement | Institution / Organizer | Year |
+|---|-------------|--------------------------|------|
+| 🇮🇳 | **National Finalist** — India AI Impact Buildathon at Bharat Mandapam, New Delhi \| Top 2% among 40,000+ participants | Government of India × HCL × GUVI | 2026 |
+| 🎯 | **Top 7 Finalist** — Bharat Gen AI Summit Hackathon, selected from a national pool | IIT Bombay × DST, Government of India | 2025 |
+| 🥈 | **Ranked 2nd** — Pragyantra National Level AI Hackathon | Pragyantra Technical Event | 2026 |
+| 🥈 | **Ranked 2nd** — Abhiyantram Project Competition, M-Pulse | M-Pulse Technical Event | 2026 |
+| ⚡ | **Top 40 Finalist** — iDEA Hackathon, selected from 600+ submissions | Union Bank of India × KJ Somaiya College | 2025 |
 | 💻 | **2nd National Rank & 1st College Rank** — GAME OF CODES Coding Competition | National Coding Competition | 2025 |
-| 📌 | **2nd Rank** — Second Year Mini Project Competition | Department-Level Project Competition | 2024 |
+| 📌 | **2nd Rank** — Second Year Mini Project Competition | Department of Computer Engineering | 2024 |
 
 
 > Consistently advancing to the final rounds of national-level AI and engineering competitions, demonstrating strong technical execution under pressure.
