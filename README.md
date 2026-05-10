@@ -116,18 +116,17 @@ I am a final-year Computer Engineering student with a consistent record of build
 > A selection of AI-driven projects built to address real-world challenges.
 
 ---
+### 🩺 Aarogyan — Unified AI-Powered Medical Wellness Platform
+**Stack:** `Flutter` `FastAPI` `LangChain` `Groq LLM` `Supabase` `Qdrant`
 
-### 🏥 AI-Powered Healthcare Assistant
-**Stack:** `Python` `LangChain` `Flask` `Streamlit` `OpenAI API`
+An AI-powered healthcare platform designed for intelligent medical assistance, prescription understanding, and context-aware wellness support using Retrieval-Augmented Generation (RAG).
 
-An intelligent conversational assistant for preliminary healthcare queries, built on a retrieval-augmented generation (RAG) architecture to deliver context-aware, grounded responses.
-
-- Designed a RAG pipeline with domain-specific medical document retrieval for accurate, citation-backed answers
-- Integrated LangChain conversation memory for coherent multi-turn dialogue
-- Deployed via Streamlit with a clean, accessible interface optimized for non-technical users
+- Built a scalable RAG-based medical assistant using **LangChain**, **Llama 3.3-70B**, and **Qdrant Vector DB** for personalized and evidence-grounded healthcare responses
+- Developed OCR-powered medical document processing workflows for extracting and summarizing prescriptions and reports
+- Engineered a full-stack architecture with **Flutter**, **FastAPI**, and **Supabase**, deploying secure AI services on Hugging Face Spaces
 
 <!-- [CUSTOMIZE] Add your actual repo link -->
-[![Repo](https://img.shields.io/badge/View%20Repository-161b22?style=flat-square&logo=github&logoColor=white)](#)
+[![Repository](https://img.shields.io/badge/View%20Repository-161b22?style=flat-square&logo=github&logoColor=white)](#)
 
 ---
 
@@ -170,29 +169,17 @@ An OCR pipeline that extracts and structures data from handwritten or printed me
 
 ---
 
-### 📷 Talking Camera — Assistive Vision Tool
-**Stack:** `Python` `OpenCV` `TensorFlow` `gTTS` `Streamlit`
-
-An assistive AI application that identifies objects and scenes from a live camera feed and reads descriptions aloud in real time, built for elderly users and individuals with low vision.
-
-- Integrated object detection with text-to-speech output for a fully hands-free user experience
-- Tuned model inference for low-latency response on consumer-grade hardware
-- Designed a large-button, high-contrast UI informed by accessibility best practices
-
-[![Repo](https://img.shields.io/badge/View%20Repository-161b22?style=flat-square&logo=github&logoColor=white)](#)
-
----
-
 <!-- ──────────────────────── CURRENTLY LEARNING ──────────────────────── -->
 
 ## 📚 Currently Exploring
 
 ```
-▸ Retrieval-Augmented Generation (RAG) architectures and vector databases
-▸ MLOps — experiment tracking, model versioning, and deployment pipelines
-▸ System Design fundamentals for scalable distributed services
-▸ Advanced Next.js — App Router, Server Components, full-stack API patterns
-▸ Transformer internals and parameter-efficient fine-tuning (LoRA, QLoRA)
+### Currently Exploring
+▸ Software Engineering principles for scalable and maintainable systems  
+▸ Backend architecture, API design, and database optimization  
+▸ Full-stack development with Next.js and modern web technologies  
+▸ AI-powered applications using LLMs, RAG pipelines, and vector search  
+▸ Deployment workflows, performance optimization, and production systems  
 ```
 
 ---
