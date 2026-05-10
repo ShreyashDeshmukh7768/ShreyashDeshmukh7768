@@ -31,7 +31,7 @@ Degree       : B.E. Computer Engineering  (2022 – 2026)
 Focus Areas  : Software Engineering · AI/ML Engineering · Full Stack Development
 Internships  : Google AI/ML (AICTE)  |  AWS Cloud Foundations (AICTE)
 Competitions : 5x National-Level Hackathon Finalist  |  2x National Rank Holder
-Interests : Software Engineering · AI/ML Systems · Backend Development · Scalable Applications · System Design · Full-Stack Development
+Interests    : Software Engineering · AI/ML Systems · Backend Development · Scalable Applications · System Design · Full-Stack Development
 Contact      : dshreyash7768@gmail.com
 ```
 
