@@ -27,7 +27,7 @@
 
 ```yaml
 Name         : Shreyash Deshmukh
-Degree       : B.E. Computer Engineering  (2022 – 2026)
+Degree       : B.E. Computer Engineering  (2022 - 2026)
 Focus Areas  : Software Engineering · AI/ML Engineering · Full Stack Development
 Internships  : Google AI/ML (AICTE)  |  AWS Cloud Foundations (AICTE)
 Competitions : 5x National-Level Hackathon Finalist  |  2x National Rank Holder
@@ -45,13 +45,13 @@ I am a final-year Computer Engineering student with a consistent record of build
 
 | # | Achievement | Institution / Organizer | Year |
 |---|-------------|--------------------------|------|
-| 🇮🇳 | **National Finalist** — India AI Impact Buildathon at Bharat Mandapam, New Delhi \| Top 2% among 40,000+ participants | Government of India × HCL × GUVI | 2026 |
-| 🎯 | **Top 7 Finalist** — Bharat Gen AI Summit Hackathon, selected from a national pool | IIT Bombay × DST, Government of India | 2025 |
-| 🥈 | **Ranked 2nd** — Pragyantra National Level AI Hackathon | Pragyantra Technical Event | 2026 |
-| 🥈 | **Ranked 2nd** — Abhiyantram Project Competition, M-Pulse | M-Pulse Technical Event | 2026 |
-| ⚡ | **Top 40 Finalist** — iDEA Hackathon, selected from 600+ submissions | Union Bank of India × KJ Somaiya College | 2025 |
+| 🇮🇳 | **National Finalist** - India AI Impact Buildathon at Bharat Mandapam, New Delhi | Top 2% among 40,000+ participants | Government of India × HCL × GUVI | 2026 |
+| 🎯 | **Top 7 Finalist** - Bharat Gen AI Summit Hackathon, selected from a national pool | IIT Bombay × DST, Government of India | 2025 |
+| 🥈 | **Ranked 2nd** - Pragyantra National Level AI Hackathon | Pragyantra Technical Event | 2026 |
+| 🥈 | **Ranked 2nd** - Abhiyantram Project Competition, M-Pulse | M-Pulse Technical Event | 2026 |
+| ⚡ | **Top 40 Finalist** - iDEA Hackathon, selected from 600+ submissions | Union Bank of India × KJ Somaiya College | 2025 |
 | 💻 | **2nd National Rank & 1st College Rank** — GAME OF CODES Coding Competition | National Coding Competition | 2025 |
-| 📌 | **2nd Rank** — Second Year Mini Project Competition | Department of Computer Engineering | 2024 |
+| 📌 | **2nd Rank** - Second Year Mini Project Competition | Department of Computer Engineering | 2024 |
 
 
 > Consistently advancing to the final rounds of national-level AI and engineering competitions, demonstrating strong technical execution under pressure.
@@ -116,7 +116,7 @@ I am a final-year Computer Engineering student with a consistent record of build
 > A selection of AI-driven projects built to address real-world challenges.
 
 ---
-### 🩺 Aarogyan — Unified AI-Powered Medical Wellness Platform
+### 🩺 Aarogyan - Unified AI-Powered Medical Wellness Platform
 **Stack:** `Flutter` `FastAPI` `LangChain` `Groq LLM` `Supabase` `Qdrant`
 
 An AI-powered healthcare platform designed for intelligent medical assistance, prescription understanding, and context-aware wellness support using Retrieval-Augmented Generation (RAG).
