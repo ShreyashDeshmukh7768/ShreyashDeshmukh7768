@@ -60,41 +60,65 @@ I am a final-year Computer Engineering student with a consistent record of build
 
 <!-- ──────────────────────── TECH STACK ──────────────────────── -->
 
-## 🛠️ Technical Stack
+## ⚙️ Engineering Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,sql" />
+</p>
 
-### Frameworks & Libraries
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+### Artificial Intelligence
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
 
-### AI / ML & Computer Vision
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-00CFFF?style=flat-square&logo=chainlink&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-2E71DC?style=flat-square&logo=google&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
-
-### Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+**Core Areas**
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI
+- Prompt Engineering
+- TensorFlow
 
 ---
+
+### Backend Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi" />
+</p>
+
+**Core Areas**
+- REST API Development
+- Backend System Design
+- Authentication & Authorization
+- Scalable API Architecture
+
+---
+
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+---
+
+### Computer Vision & Data
+<p>
+  <img src="https://skillicons.dev/icons?i=opencv" />
+</p>
+
+**Libraries**
+- MediaPipe
+- NumPy
+- Pandas
+- Matplotlib
+
+---
+
+### Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
 
 <!-- ──────────────────────── EXPERIENCE ──────────────────────── -->
 
@@ -112,19 +136,23 @@ I am a final-year Computer Engineering student with a consistent record of build
 
 <!-- ──────────────────────── CURRENTLY LEARNING ──────────────────────── -->
 
-## 📚 Currently Exploring
+## ⚡ Engineering Beyond Code
 
-```
-### Currently Exploring
-▸ Software Engineering principles for scalable and maintainable systems  
-▸ Backend architecture, API design, and database optimization  
-▸ Full-stack development with Next.js and modern web technologies  
-▸ AI-powered applications using LLMs, RAG pipelines, and vector search  
-▸ Deployment workflows, performance optimization, and production systems  
-```
+▸ Software that thinks
+
+▸ Systems that scale
+
+▸ AI that solves
+
+▸ Architecture that lasts
 
 ---
 
+## Engineering Philosophy
+
+I believe great AI isn't defined by the model behind it—it's defined by the reliability of the system around it.
+
+My goal is to build intelligent software that people can trust, scale, and use in the real world.
 <!-- ──────────────────────── GITHUB STATS ──────────────────────── -->
 
 ## 📊 GitHub Statistics
