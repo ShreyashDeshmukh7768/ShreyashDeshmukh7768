@@ -7,10 +7,28 @@
 I build the systems behind the model, not just the model itself — RAG pipelines, retrieval infrastructure, and the APIs that hold them together in production. Final-year Computer Engineering student in Pune, validated at national level: **top 2% of 40,000+ participants** at the India AI Impact Buildathon (Govt. of India × HCL × GUVI, Bharat Mandapam, New Delhi).
 
 ```
-STACK        Python · SQL · FastAPI · Flask
-AI / ML      LLMs · RAG · Agentic Workflows · Prompt Engineering · Vector Search
-DATA         PostgreSQL · MySQL · MongoDB · Qdrant · Supabase
-INFRA        Docker · Linux · Git · Hugging Face
+PROFILE      Shreyash Deshmukh
+ROLE         Software Engineer | AI Engineer
+
+EMAIL        dshreyash7768@gmail.com
+GITHUB       github.com/ShreyashDeshmukh7768
+LINKEDIN     linkedin.com/in/shreyash-deshmukh-a73b00266
+LOCATION     Pune, Maharashtra, India
+
+MISSION      Building intelligent, scalable software that solves
+             real-world problems through engineering excellence.
+
+────────────────────────────────────────────────────────────────
+
+SOFTWARE     Python · C++ · SQL · FastAPI · Flask · REST APIs
+
+AI           LLMs · RAG · Agentic AI · Prompt Engineering · NLP · TensorFlow
+
+DATA         PostgreSQL · MySQL · MongoDB · Qdrant · ETL · Vector Search
+
+PLATFORM     Docker · Linux · Git · AWS · Google Cloud
+
+TOOLKIT      Hugging Face · Streamlit · Jupyter · Google Colab
 ```
 
 ---
@@ -43,7 +61,7 @@ The retrieval engine grounds every response in Llama-3.3-70B against a Qdrant in
 
 | Result | Competition | Organizer | Year |
 |---|---|---|---|
-| National Finalist — top 2% of 40,000+ | India AI Impact Buildathon | Govt. of India × HCL × GUVI | 2026 |
+| National Finalist -> top 2% of 40,000+ | India AI Impact Buildathon | Govt. of India × HCL × GUVI | 2026 |
 | Top 7 Finalist | Bharat Gen AI Summit Hackathon | IIT Bombay × DST | 2025 |
 | 2nd Rank | Pragyantra National-Level AI Hackathon | Pragyantra | 2026 |
 | 2nd Rank | Abhiyantram Project Competition | M-Pulse | 2026 |
@@ -64,10 +82,5 @@ Internships: **Google AI/ML** (AICTE) · **AWS Cloud Foundations** (AICTE)
 
 <div align="center">
 
-```
-CONTACT      dshreyash7768@gmail.com
-LINKEDIN     linkedin.com/in/shreyash-deshmukh-a73b00266
-STATUS       Open to SDE / AI Engineering roles — 2026
-```
 
 </div>
