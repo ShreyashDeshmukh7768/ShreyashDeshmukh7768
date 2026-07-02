@@ -2,6 +2,10 @@
   <img src="./assets/banner.png" alt="Shreyash Deshmukh — AI/ML Engineer" width="100%"/>
 </div>
 
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=ShreyashDeshmukh7768&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
+
 <br/>
 
 I build the systems behind the model, not just the model itself — RAG pipelines, retrieval infrastructure, and the APIs that hold them together in production. Final-year Computer Engineering student in Pune, validated at national level: **top 2% of 40,000+ participants** at the India AI Impact Buildathon (Govt. of India × HCL × GUVI, Bharat Mandapam, New Delhi).
