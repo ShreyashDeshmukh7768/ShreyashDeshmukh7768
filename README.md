@@ -72,9 +72,20 @@ Internships: **Google AI/ML** (AICTE) · **AWS Cloud Foundations** (AICTE)
 
 ---
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ShreyashDeshmukh7768&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&include_all_commits=true" height="150em" alt="GitHub stats"/>
-</div>
+## Engineering Telemetry
+
+> _Every commit represents a step toward building reliable, scalable, and impactful software systems._
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ShreyashDeshmukh7768&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=ShreyashDeshmukh7768&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyashDeshmukh7768&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+</p>
+
+
 
 <!-- [CUSTOMIZE] replace ShreyashDeshmukh7768 with your GitHub username -->
 
